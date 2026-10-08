@@ -262,6 +262,12 @@ A public collection of HackerRank solutions covering programming challenges and 
 
 <img src="https://streak-stats.demolab.com?user=gyuv&hide_border=true&theme=transparent" height="180">
 
+<br><br>
+
+<!-- bot-status -->
+🤖 **GitBot status:** online ✨ — Monitoring gyuv's repos. Status: secure 💖
+<!-- /bot-status -->
+
 </div>
 
 ---
