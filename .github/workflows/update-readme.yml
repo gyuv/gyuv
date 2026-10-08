@@ -26,7 +26,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PROFILE_USER: gyuv
-          BOT_LOGIN: ${{ vars.BOT_LOGIN }} # e.g. "your-app-slug[bot]"
+          BOT_LOGIN: yuv-bot[bot]
         run: node profile-updater.js
 
       - name: Commit changes
